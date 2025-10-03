@@ -1,0 +1,63 @@
+<!Doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>my profolio</title>
+    <link rel="stylesheet" href="design.css">
+</head>
+<body>
+<body>
+    <header>
+         <nav>
+            <ul>
+                <li><a href="#About me">about me</a></li>
+                <li><a href="#Skills">skills</a></li>
+                <li><a href="#Projects">projects</a></li>
+                <li><a href="#Contact me">contact me</a></li>
+        
+
+    </nav>
+<h1>NICOLE CHIDO MUDZVITI</h1>
+    <p>Django developer</p>
+    </header>
+    <main>
+        <h2>About me</h2>
+        <p> <img src="images/picture1.jpg"att="me" with="15"height="150"/></p>
+        <h2>skills</h2>
+        <ul>f
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JAVASCRIPT</li>
+            <li>PYTHON</li>
+            <li>DJANGO</li>
+        </ul>
+        <div class="info">
+            <h3>Hi, I'm<span> Nicole</span> </h3>
+            <h1>WEB DESIGNER </h1>
+            <p>I'm a django developer with a passion for creating dynamic and user-friendly web applications.<br> I have experience in front-end and back-end development, and I'm always eager to learn new technologies and improve my skills.<br> In my free time, I enjoy exploring new places, reading books, and spending time with friends and family.</p>
+            <ul>
+                <li><a href="HIRE ME.html" class="btn">HIRE ME</a></li>
+        </div>
+
+        <div>
+            <div class="image">
+            
+            <image src="images/picture1.jpg" class="girl">
+        </div>
+        <div>
+            <class=icons>
+                <a href="#"><img src="images/facebook.png" alt="facebook"></a>
+                <a href="#"><img src="images/instagram.png" alt="instagram"></a>
+                <a href="#"><img src="images/twitter.png" alt="twitter"></a>
+                </div>
+                <script src="https://unpkg.com/icons@5.4.0/dist/icons.js"></script>
+                
+
+    <footer>
+        <p>&copy ;2025 your name all rights reserved</p>
+
+</body>
+
+
+</body>
+</html>
